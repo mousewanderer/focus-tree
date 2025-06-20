@@ -49,3 +49,5 @@ Tech Newbie
             ├───► Technical Product Manager → VP of Product
             │
             └───► Startup Founder
+
+            I dont Understand
