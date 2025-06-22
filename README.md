@@ -50,4 +50,4 @@ Tech Newbie
             │
             └───► Startup Founder
 
-            I dont Understand
+            I dont Understand thos
