@@ -50,4 +50,7 @@ Tech Newbie
             │
             └───► Startup Founder
 
-            I dont Understand thos
+            I dont Understand this
+
+#Task check list
+make 3 software projects
