@@ -1,5 +1,6 @@
 # focus-tree
 
+RANDOM SHIT I THROW
 Tech Newbie
 │
 ├───► Beginner Programmer
