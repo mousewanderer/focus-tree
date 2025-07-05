@@ -1,4 +1,4 @@
-# focus-tree
+# RANDOM SHIT TREE
 
 RANDOM SHIT I THROW
 Tech Newbie
